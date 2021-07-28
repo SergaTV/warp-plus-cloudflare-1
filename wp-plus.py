@@ -85,7 +85,7 @@ while True:
                          f"\nTotal: {g} Good {b} Bad"
                          "\nAfter 18 seconds, a new request will be sent."
                          f"\nBot uptime: {uptime}."
-                         "\nRunning by: @spookyanii")
+                         "\nRunning by: @askorblnka")
 		time.sleep(18)
 	else:
 		b = b + 1
